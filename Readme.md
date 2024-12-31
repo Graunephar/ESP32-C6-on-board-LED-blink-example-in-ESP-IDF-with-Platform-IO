@@ -15,9 +15,8 @@ The current build flags are configured to use the on-board LED. However, since t
 Before getting started with the project, make sure you have PlatformIO Core and `esptool.py` installed.
 
 ## PlatformIO Core
-If you are on a Mac like me, just install it with Homebrew by running `brew install pio`.
 
-Otherwise, PlatformIO has a guide on their website on [how to install PlatformIO Core](https://docs.platformio.org/en/latest/core/installation/index.html), which is a CLI tool.
+You need  PlatformIO Core which is also a CLI tool. Follow (the guide in PlatformIOs website)[https://docs.platformio.org/en/latest/core/installation/index.html] to install it.
 
 ## esptool.py
 A command-line tool for managing ESP. Can be installed with pip. 
