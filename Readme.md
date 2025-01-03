@@ -1,6 +1,7 @@
 # Basic Hello World for ESP-IDF blink on ESP32-C6 (I have ESP32-C6-DevkitC-1) and PlatformIO
 
-This repo is for ESP-IDF with PlatformIO. If you would rather use Arduino [go here to find my basic blink example in Arduino](https://github.com/Graunephar/Esp32-C6-on-board-RGB-LED-example-in-Arduino-and-PlatformIO).
+This project is an example of how to use ESP-IDF in PlatformIO. If you would like an overview of the different options for arduino and ESP-IDF in PlatformIO on ESP32-C6. I have an overview of my different example reposoties on (a GitHub Gist that can be found on this link.)[https://gist.github.com/Graunephar/57a9882cb3a2ab98be8d63a59ab16ef3]
+
 
 # About the code
 This repo contains all the necessary code to get the ESP32-C6 to run the [blink example provided by Espressif in ESP-IDF](https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink/main/blink_example_main.c). The `main.c` file is just that code without any changes.
